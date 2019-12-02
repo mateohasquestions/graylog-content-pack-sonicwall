@@ -176,7 +176,7 @@
                 "type": "DATE",
                 "configuration": {
                     "date_format": "yyyy-MM-dd HH:mm:ss",
-                    "time_zone": "Etc/UTC"
+                    "time_zone": "Pst/UTC"
                 }
             }],
             "condition_type": "NONE",
